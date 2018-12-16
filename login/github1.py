@@ -23,13 +23,17 @@ class LoginGithub(object):
         r1 = requests.get(login_url)
         soup = BeautifulSoup(r1.text,features='lxml')
         token = soup.find(name='input', attrs={'name':'authenticity_token'}).get('value') 
+        commit = soup.find(name='input', attrs={'name':'commit'}).get('value') 
+        
         cookies = r1.cookies.get_dict()
-        return token ,cookies
+        return token,commit, cookies
     
     def login(self):
-        token, cookies = self.get_token_cookies()
+        token, commit ,cookies = self.get_token_cookies()
+        
+        print(token,commit)
         payload = {
-            'commit':'Sigin in',
+            'commit':commit,
             'utf8':'%E2%9C%93',
             'authenticity_token':token,
             'login':'626659321@qq.com',
