@@ -1,34 +1,20 @@
 title : Python ,url: https://baike.baidu.com/item/Python/407313 , summary :Python是一种计算机程序设计语言。是一种动态的、面向对象的脚本语言，最初被设计用于编写自动化脚本(shell)，随着版本的不断更新和语言新功能的添加，越来越多被用于独立的、大型项目的开发。
-title : Plone ,url: https://baike.baidu.com/item/Plone , summary :Plone是免费的、开放源代码的内容管理系统（Content Management System，CMS）。Plone着重于适合各种组织使用。它带有一个工作流引擎、预先配置的安全和角色系统、一组内容类型和多语言支持。有来自全世界的众多开发者、作者和测试者每天为Plone做各种贡献。Plone是基于内容管理框架的。（Content Management Framework）。
-title : 脚本语言 ,url: https://baike.baidu.com/item/%E8%84%9A%E6%9C%AC%E8%AF%AD%E8%A8%80 , summary :脚本语言又被称为扩建的语言，或者动态语言，是一种编程语言，用来控制软件应用程序，脚本通常以文本（如ASCII)保存，只在被调用时进行解释或编译。
-title : C++ ,url: https://baike.baidu.com/item/C%2B%2B , summary :C++是C语言的继承，它既可以进行C语言的过程化程序设计，又可以进行以抽象数据类型为特点的基于对象的程序设计，还可以进行以继承和多态为特点的面向对象的程序设计。C++擅长面向对象程序设计的同时，还可以进行基于过程的程序设计，因而C++就适应的问题规模而论，大小由之。
-[1] 
-
-title : 正则表达式 ,url: https://baike.baidu.com/item/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F , summary :正则表达式，又称规则表达式。（英语：Regular Expression，在代码中常简写为regex、regexp或RE），计算机科学的一个概念。正则表达式通常被用来检索、替换那些符合某个模式(规则)的文本。
-title : 宏语言 ,url: https://baike.baidu.com/item/%E5%AE%8F%E8%AF%AD%E8%A8%80 , summary :宏语言是一种强有力的工具语言，可以用来描述软件和解决软件移植等问题，用于书写宏指命和宏定义的表示法和规则。
-[1] 
-
-title : Windows Power Shell ,url: https://baike.baidu.com/item/Windows%20PowerShell , summary :Windows PowerShell 是一种命令行外壳程序和脚本环境，使命令行用户和脚本编写者可以利用 .NET Framework的强大功能。
-title : 面向对象 ,url: https://baike.baidu.com/item/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1 , summary :面向对象(Object Oriented,OO)是软件开发方法。面向对象的概念和应用已超越了程序设计和软件开发，扩展到如数据库系统、交互式界面、应用结构、应用平台、分布式系统、网络管理结构、CAD技术、人工智能等领域。面向对象是一种对现实世界理解和抽象的方法，是计算机编程技术
-[1] 
-发展到一定阶段后的产物。
-title : 接口 ,url: https://baike.baidu.com/item/%E6%8E%A5%E5%8F%A3 , summary :接口泛指实体把自己提供给外界的一种抽象化物（可以为另一实体），用以由内部操作分离出外部沟通方法，使其能被内部修改而不影响外界其他实体与其交互的方式。
-title : PyCharm ,url: https://baike.baidu.com/item/PyCharm , summary :PyCharm是一种Python IDE，带有一整套可以帮助用户在使用Python语言开发时提高其效率的工具，比如调试、语法高亮、Project管理、代码跳转、智能提示、自动完成、单元测试、版本控制。此外，该IDE提供了一些高级功能，以用于支持Django框架下的专业Web开发。
-title : 控制流 ,url: https://baike.baidu.com/item/%E6%8E%A7%E5%88%B6%E6%B5%81 , summary :控制流是指按一定的顺序排列程序元素来决定程序执行的顺序。Visual BASIC、C和其他编程语言也继承了控制流，语句按照出现在程序中的顺序执行。LabVIEW 使用顺序结构实现数据流框架中的控制流。顺序结构是一系列顺序执行的有序帧集合。顺序结构顺序执行帧0，然后是帧1、帧2,直到最后一个帧。只有最后一个帧执行完毕，数据才会离开结构。共有两种风格的顺序结构:单层顺序结构和叠层顺序结构，可以在Functions 选项卡的Programming>>Structures 子选项卡中找到。
-[1] 
-
-title : 部署 ,url: https://baike.baidu.com/item/%E9%83%A8%E7%BD%B2 , summary :部署是一个动词，读音为bù shǔ，指安排，布置；处理；料理。语出《史记·项羽本纪》：“ 梁 部署 吴中 豪杰为校尉、候、司马。”
-title : 教学 ,url: https://baike.baidu.com/item/%E6%95%99%E5%AD%A6 , summary :教学是教师的教和学生的学所组成的一种人类特有的人才培养活动。通过这种活动，教师有目的、有计划、有组织地引导学生学习和掌握文化科学知识和技能，促进学生素质提高，使他们成为社会所需要的人。
-title : 课程 ,url: https://baike.baidu.com/item/%E8%AF%BE%E7%A8%8B , summary :课程是指学校学生所应学习的学科总和及其进程与安排。课程是对教育的目标、教学内容、教学活动方式的规划和设计，是教学计划、教学大纲等诸多方面实施过程的总和。广义的课程是指学校为实现培养目标而选择的教育内容及其进程的总和，它包括学校老师所教授的各门学科和有目的、有计划的教育活动。狭义的课程是指某一门学科。
-title : 苏联 ,url: https://baike.baidu.com/item/%E5%89%8D%E8%8B%8F%E8%81%94 , summary :苏联（俄语：Союз Советских Социалистических Республик，俄语缩写：СССР），全称苏维埃社会主义共和国联盟，1917年11月7日（俄历10月25日）十月社会主义革命，建立世界上第一个社会主义国家政权——俄罗斯苏维埃联邦社会主义共和国。1922年12月30日，俄罗斯联邦、南高加索联邦、乌克兰、白俄罗斯成立苏维埃社会主义共和国联盟（后扩至15个加盟共和国）。1991年12月26日，苏联最高苏维埃共和国院举行最后一次会议，宣布苏联停止存在。至此，苏联解体。
-[1] 
-
-title : 瑞典 ,url: https://baike.baidu.com/item/%E7%91%9E%E5%85%B8/291092 , summary :瑞典王国（瑞典语：Konungariket Sverige），简称瑞典（瑞典语：Sverige），是一个位于斯堪的纳维亚半岛的国家，北欧五国之一，首都为斯德哥尔摩。它西邻挪威，东北与芬兰接壤，西南濒临斯卡格拉克海峡和卡特加特海峡，东边为波罗的海与波的尼亚湾。瑞典与丹麦、德国、波兰、俄罗斯、立陶宛、拉脱维亚和爱沙尼亚隔海相望，海岸线长7624千米，总面积约45万平方公里，是北欧最大的国家。
-[1] 
-
-title : 玛克西姆·高尔基 ,url: https://baike.baidu.com/item/%E9%AB%98%E5%B0%94%E5%9F%BA , summary :玛克西姆·高尔基（Maxim Gorky，1868年3月16日—1936年6月18日），原名阿列克赛·马克西姆维奇·别什可夫，前苏联作家、诗人、评论家、政论家、学者。
-[1] 
-
-title : 俄罗斯苏维埃联邦社会主义共和国 ,url: https://baike.baidu.com/item/%E4%BF%84%E7%BD%97%E6%96%AF%E8%8B%8F%E7%BB%B4%E5%9F%83%E8%81%94%E9%82%A6%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%85%B1%E5%92%8C%E5%9B%BD , summary :俄罗斯苏维埃联邦社会主义共和国又称苏维埃俄国（英语：Soviet Russia；俄语：советская россия ），简称苏俄（1922年苏联成立后俄罗斯苏维埃联邦社会主义共和国成为苏联最大的加盟共和国）。
-title : 面对面 ,url: https://baike.baidu.com/item/%E9%9D%A2%E5%AF%B9%E9%9D%A2/2762829 , summary :面对面，在中国汉语中没有具体解释，英语翻译为 Face To Face。
-title : 制表符 ,url: https://baike.baidu.com/item/%E5%88%B6%E8%A1%A8%E7%AC%A6 , summary :制表符（也叫制表位)的功能是在不使用表格的情况下在垂直方向按列对齐文本。比较常见的应用包括名单、简单列表等。也可以应用于制作页眉页脚等同一行有几个对齐位置的行。
+title : 源代码 ,url: https://baike.baidu.com/item/%E6%BA%90%E4%BB%A3%E7%A0%81 , summary :影片《源代码》是由邓肯·琼斯执导，杰克·吉伦哈尔、维拉·法米加、米歇尔·莫娜汉等人联袂出演。影片于2011年4月1日在美国上映。
+title : PyQt ,url: https://baike.baidu.com/item/PyQt , summary :PyQt是一个创建GUI应用程序的工具包。它是Python编程语言和Qt库的成功融合。Qt库是目前最强大的库之一。PyQt是由Phil Thompson 开发。
+title : Flask ,url: https://baike.baidu.com/item/flask , summary :Flask是一个使用 Python 编写的轻量级 Web 应用框架。其 WSGI 工具箱采用 Werkzeug ，模板引擎则使用 Jinja2 。Flask使用 BSD 授权。
+title : 插件 ,url: https://baike.baidu.com/item/%E6%8F%92%E4%BB%B6 , summary :插件(Plug-in,又称addin、add-in、addon或add-on,又译外挂)是一种遵循一定规范的应用程序接口编写出来的程序。其只能运行在程序规定的系统平台下（可能同时支持多个平台），而不能脱离指定的平台单独运行。因为插件需要调用原纯净系统提供的函数库或者数据。很多软件都有插件，插件有无数种。例如在IE中，安装相关的插件后，WEB浏览器能够直接调用插件程序，用于处理特定类型的文件。插件的定位是开发实现原纯净系统平台、应用软件平台不具备的功能的程序，其只能运行在程序规定的系统平台下（可能同时支持多个平台），而不能脱离指定的平台单独运行。因为插件需要调用原纯净系统提供的函数库或者数据。
+title : 命令提示符 ,url: https://baike.baidu.com/item/%E5%91%BD%E4%BB%A4%E8%A1%8C , summary :命令提示符是在操作系统中，提示进行命令输入的一种工作提示符。在不同的操作系统环境下，命令提示符各不相同。
+title : 输入法 ,url: https://baike.baidu.com/item/%E8%BE%93%E5%85%A5%E6%B3%95 , summary :输入法是指为将各种符号输入计算机或其他设备（如手机）而采用的编码方法，同时是书写工具克服墨水限制的最终结果，是一种拥有无限墨水的书写工具，是文字生产力发展到一定阶段的产物；从哲学角度讲，是文字生产发生量变而导致文字生产工具（书写工具）质变的必然结果。
+title : 缓冲区 ,url: https://baike.baidu.com/item/%E7%BC%93%E5%86%B2%E5%8C%BA , summary :缓冲区是地理空间目标的一种影响范围或服务范围，具体指在点、线、面实体的周围，自动建立的一定宽度的多边，数学表达为：Bi=(x:d(xi,Oi)≤R)。
+title : 信使服务 ,url: https://baike.baidu.com/item/%E4%BF%A1%E4%BD%BF%E6%9C%8D%E5%8A%A1 , summary :在Windows XP中，“信使服务”在服务列表中名称为“Messenger”，该服务用来传输客户端和服务器之间的Net Send和Alerter（报警器）
+title : psxss.exe ,url: https://baike.baidu.com/item/psxss.exe , summary :psxss.exe的位置是C:\Windows\System32，出品者是Microsoft Corp，文件版本:为6.1.7600.16385 (win7_rtm.090713-1255)，属于Windows Embedded Standard 7
+title : rdpclip.exe ,url: https://baike.baidu.com/item/rdpclip.exe , summary :rdpclip 是让rdp协议（远程桌面协议）可以通过远程复制文件的，如果你使用rdp（3389）远程连接别人或者被别人连接，通常这个进程都会启动，他的任务是可以通过远程复制信息和文件。
+title : 插件程序 ,url: https://baike.baidu.com/item/%E6%8F%92%E4%BB%B6%E7%A8%8B%E5%BA%8F/5704926 , summary :插件程序是实现了某种软件接口的程序模块，第三方开发者可以遵循该接口开发独立的功能。插件模块通常以独立的文件形式存在，例如OCX文件等，也可能是一组文件的形式存在。
+title : 集成开发环境 ,url: https://baike.baidu.com/item/IDE , summary :集成开发环境（IDE，Integrated Development Environment ）是用于提供程序开发环境的应用程序，一般包括代码编辑器、编译器、调试器和图形用户界面等工具。集成了代码编写功能、分析功能、编译功能、调试功能等一体化的开发软件服务套。所有具备这一特性的软件或者软件套（组）都可以叫集成开发环境。如微软的Visual Studio系列，Borland的C++ Builder、Delphi系列等。该程序可以独立运行，也可以和其它程序并用。IDE多被用于开发HTML应用软件。例如，许多人在设计网站时使用IDE（如HomeSite、DreamWeaver等），因为很多项任务会自动生成。
+title : 百度输入法 ,url: https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E8%BE%93%E5%85%A5%E6%B3%95 , summary :百度输入法是百度公司免费提供的输入软件。2010年10月推出，拥有百度搜索和云端技术的支持，百度输入法很快成为了新一代的输入产品。
+title : 网络通信 ,url: https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1 , summary :网络是用物理链路将各个孤立的工作站或主机相连在一起，组成数据链路，从而达到资源共享和通信的目的。通信是人与人之间通过某种媒体进行的信息交流与传递。网络通信是通过网络将各个孤立的设备进行连接，通过信息交换实现人与人，人与计算机，计算机与计算机之间的通信。
+title : sndrec32.exe ,url: https://baike.baidu.com/item/sndrec32.exe , summary :sndrec32.exe是微软Microsoft Windows操作系统多媒体工具，用于录音。路径为开始 附件 娱乐 录音机，地址是%SystemRoot%\system32\sndrec32.exe。
+title : diantz.exe ,url: https://baike.baidu.com/item/diantz.exe , summary :MSCabinetMaker，CAB文件制做工具。
+title : IDE ,url: https://baike.baidu.com/item/IDE/8232105#viewPageContent , summary :IDE的英文全称为“Integrated Drive Electronics”，即“电子集成驱动器”，或者叫“集成设备电路”。
+title : 源代码 ,url: https://baike.baidu.com/item/%E6%BA%90%E4%BB%A3%E7%A0%81/3969 , summary :源代码（也称源程序）是指未编译的按照一定的程序设计语言规范书写的文本文件，是一系列人类可读的计算机语言指令。 在现代程序语言中，源代码可以是以书籍或者磁带的形式出现，但最为常用的格式是文本文件，这种典型格式的目的是为了编译出计算机程序。计算机源代码的最终目的是将人类可读的文本翻译成为计算机可以执行的二进制指令，这种过程叫做编译，通过编译器完成。
+title : HTML ,url: https://baike.baidu.com/item/HTML , summary :超文本标记语言，标准通用标记语言下的一个应用。
